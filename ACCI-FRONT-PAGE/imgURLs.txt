@@ -1,0 +1,25 @@
+<img id="Logo" src="/portals/albertcampbell/Website Files/Logo.png" title="ACCI Logo" alt="Albert Campbell Logo of a boar.">
+
+
+<img src="/portals/albertcampbell/Website Files/School Image.png" title="Albert Campbell CI" alt="Outdoor main entrance to Albert Campbell">
+	<img src="/portals/albertcampbell/Website Files/Forum.png" title="Albert Campbell Forum" alt="Albert Campbells Main Forum">
+	<img src="/portals/albertcampbell/Website Files/Library.png" title="Albert Campbell Library" alt="An Empty Albert Campbell Library">
+	<img src="/portals/albertcampbell/Website Files/Sport.png" title="Albert Campbell Sports" alt="Students Playing Volleyball in Albert Campbell's Gym">
+	<img src="/portals/albertcampbell/Website Files/Concert.png" title="Albert Campbell Music Rehearsal" alt="A concert band of Albert Campbell students rehearsing">
+	<img src="/portals/albertcampbell/Website Files/School Image.png" title="Albert Campbell CI" alt="Outdoor main entrance to Albert Campbell">
+
+<div id="Links">
+				<a class="linkImage" href="https://www.schoolcashonline.com" target="_blank">
+				<img src="/portals/albertcampbell/Website Files/School Cash Online.png" title="School Cash Online" alt="School Cash Online Logo">
+				</a>
+				<a class="linkImage" href="https://twitter.com/ACCICares?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3AACCICares%7Ctwcon%5Es2" target="_blank">
+				<img src="/portals/albertcampbell/Website Files/X Logo.png" title="Albert Campbell X" alt="X Logo">
+				</a>
+				<a class="linkImage" href="https://www.instagram.com/acci.sac/" target="_blank">
+				<img src="/portals/albertcampbell/Website Files/Instagram Logo.png" title="ACCI SAC Instagram Account" alt="Instagram Logo">
+				</a>
+				<br>
+			</div>
+
+<img id="tdsb" src="/portals/albertcampbell/tdsb.png" title="Toronto District School Board" alt="Toronto District School Board Logo">
+

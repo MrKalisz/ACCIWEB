@@ -1,0 +1,43 @@
+/* MIDDLE THING */
+
+#calendarSection {
+  height: 30rem;
+}
+#linkSection {
+  max-width: 10rem;
+}
+
+
+@media screen and (max-width: 576px) {
+  #linkSection {
+    max-width: 100%;
+  }
+}
+
+
+.dropdown-menu { min-width: 200px }
+
+/* FOOTER CSS */
+
+.container2 {
+	background-color: #F8F7F4;
+
+}
+
+#words {
+	margin-bottom: 0;
+	font-size: 1rem;
+	line-height: 200%;
+	text-align: start;
+	font-family: Inter;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+	background-color: #420000 !important;
+	border-color: #420000 !important;
+
+
+}
